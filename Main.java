@@ -49,11 +49,7 @@ class debitcardDetails extends accholderDetails {
 public class Main {
 
 	public static void main(String[] args) {
-		//accholderDetails a=new accholderDetails();
-		//a.details();
 		
-		//accountdetails aa=new accountdetails();
-		//aa.acc_details();
 		System.out.println("------welcome------");
 		 accountdetails bbb = new  accountdetails();
 		 
@@ -66,8 +62,9 @@ public class Main {
 		aaa.details();
 		
 		aaa.debit();
+		 
 		
-
+System.out.println("--------ok done--------");
 		
 		
 	}

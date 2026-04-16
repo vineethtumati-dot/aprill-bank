@@ -50,13 +50,7 @@ adress: kota
 debitcardNumber: 987654321
 pin: 12345
 --------ok done--------
-🛠️ How to Run
-Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-Open in any Java IDE (Eclipse / IntelliJ / VS Code)
-Compile and run:
-javac Main.java
-java Main
+
 📈 Future Improvements
 Add user input using Scanner
 Implement deposit/withdraw features
